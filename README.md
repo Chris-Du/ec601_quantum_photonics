@@ -49,6 +49,20 @@ Continuous variables just so you understand  the term,you can probably guess fro
 # Quantum Algorithm
 
 
+# Applications 
+* Machine Learning
+* Quantum Simulation
+* Graph Similarity
+* Problems in NP
+* Quantum Cryptography
+
+# Limitations
+* Quantum Memory - rapid decoherence in photons makes state preservation difficult
+* Physical Implementations of Gates - certain gates require specific nonlinear interactions to occur. Current materials don’t have strong enough interaction to create these. Other methods through linear gates have been proposed but they come with their own issues
+* Initialization - getting large sets of initialized to |0> entangled states is also difficult due to decoherence
+
+
+
 
 
 
