@@ -14,7 +14,13 @@ Photonic Chip can overcome the limitations of Integrated circuits. An integrated
 
 Quantum is something which is at the end of the spectrum of downscaling FET's.A qbit can be represented by the spin of an elctron or by  the polarization of a single photon in which the two states can be taken to be the vertical polarization and the horizontal polarization.In a classical system, a bit would have to be in one state or the other. However, quantum mechanics allows the qubit to be in a coherent superposition of both states simultaneously, a property that is fundamental to quantum mechanics and quantum computing.Quantum photonics uses the  photon as qbit.
 
-#### Why Photonic's?
+Other fundamental properties utilized in quantum computing are probability interference and entanglement. While probability density curves are all positive with an area of 1, their square root allows negativity. This is how scientists have been able to create a model of quantum mechanics where probabilities of states can cancel due to their interaction and agree with experiments while also letting outcomes be probabilistic. The square roots of probabilites are called probability amplitudes and they exist as solutions to the schrodinger equation. 
+
+Entanglement is similar to classical probabilistic correlation. Meaning that given 1 measured state of a particle there is some certainty in what the state of another qubit's state is. This can be absolutely certain at times. entanglement often occurs due to some interaction between particles, like a collision or through a photon splitting into 2. Due to laws like conservation of momentum we can have quantum correlation between particles.
+
+Shor's algorithm is a great algorithm to put all of these concepts together while solving an intriguing particle. meaning if you can understand the algorithm, you'll show a strong level of understanding in the fundamentals of quantum computing.
+
+#### Why Photonics?
 To carry out quantum computation there are many technologies such as 
 * SuperConducting Qbits
 * Trapped Ions
