@@ -16,7 +16,17 @@ Quantum is something which is at the end of the spectrum of downscaling FET's.A 
 
 ##### Why Photonic's?
 To carry out quantum computation there are many technologies such as 
-* Super
+* SuperConducting Qbits
+* Trapped Ions
+* Silicon quantum dots
+* Topological qbits
+* Diamond vacancies
+The main advantage's of using Photon as a qbit is 
+* It can be operated under room temperature and it isn't complex as other qbits.
+* Can be fabricated by aldredy existing silicon foundaries like samsung,Intel.
+
+
+
 
 
 
