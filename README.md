@@ -23,12 +23,13 @@ To carry out quantum computation there are many technologies such as
 * Diamond vacancies
 
 ##### The main advantage's of using Photon as a qbit is 
-* It can be operated under room temperature and it isn't complex as other qbits.
+* Can use room temperature hardware and it isn't complex as other qbits.
 * Can be fabricated by aldredy existing silicon foundaries like samsung,Intel.
 
 # Qbits Vs Qmodes !
+Continuous variables just so you understand  the term,you can probably guess from the name "continuous variables" we're working with a continuous spectrum of real numbers so when you measure a qubit you break the superposition you measure either a 0 or 1 in this system(qunatum photonics)  you measure our Q modes.when you measure qbits you get  the result as a continuous number (3.67498547568345..............) to that effect you can sort of think of it as analogous to analog computing compared to digital computing. lights can be represented by electromagnetic wave so this is how we encode the continues degrees of freedom for instance the electromagnetic amplitude in different vectors etc. so this character is what allows us to physically carry the continuous variable information yeah so this is  sort of like a spectrum.Below at the top you have the qubit model where you just have two distinct States and you can almost think of this as starting to increase the number of states are allowed in your quantum system.[3]
 
-
+![](https://images.app.goo.gl/zgpgdqs1L8x7Cz62A)
 
 
 
@@ -39,7 +40,9 @@ To carry out quantum computation there are many technologies such as
 # References
 1. Gustafson, John L. "Moore's Law." (2011): 1177-1184.
 2. Brett Bergan, Will CPU chips ever get to a base clock of 7 or 8 GHz, https://www.quora.com/Will-CPU-chips-ever-get-to-a-base-clock-of-7-or-8-GHz.
-3. “Shor’s algorithm”, IBM Quantum Composer, https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm
-4. "Quantum Photonics", Strawberry Fields by Xanadu, https://strawberryfields.ai/photonics/
-5. Nathan Killoran, Josh Izaac, Nicolás Quesada, Ville Bergholm, Matthew Amy, and Christian Weedbrook. "Strawberry Fields: A Software Platform for Photonic Quantum Computing", Quantum, 3, 129 (2019).
-6. Thomas R. Bromley, Juan Miguel Arrazola, Soran Jahangiri, Josh Izaac, Nicolás Quesada, Alain Delgado Gran, Maria Schuld, Jeremy Swinarton, Zeid Zabaneh, and Nathan Killoran. "Applications of Near-Term Photonic Quantum Computers: Software and Algorithms", Quantum Sci. Technol. 5 034010 (2020).
+3. Strawberry Fields - software for photonic quantum computing,https://youtu.be/B2n0TxRDWPs
+4. “Shor’s algorithm”, IBM Quantum Composer, https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm
+5. 
+6. "Quantum Photonics", Strawberry Fields by Xanadu, https://strawberryfields.ai/photonics/
+7. Nathan Killoran, Josh Izaac, Nicolás Quesada, Ville Bergholm, Matthew Amy, and Christian Weedbrook. "Strawberry Fields: A Software Platform for Photonic Quantum Computing", Quantum, 3, 129 (2019).
+8. Thomas R. Bromley, Juan Miguel Arrazola, Soran Jahangiri, Josh Izaac, Nicolás Quesada, Alain Delgado Gran, Maria Schuld, Jeremy Swinarton, Zeid Zabaneh, and Nathan Killoran. "Applications of Near-Term Photonic Quantum Computers: Software and Algorithms", Quantum Sci. Technol. 5 034010 (2020).
