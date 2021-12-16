@@ -12,7 +12,13 @@ In the year 1961, Jack Kilby and Robert Noyce invented ‘Silicon chip’, an in
 
 Photonic Chip can overcome the limitations of Integrated circuits. An integrated circuit (IC) consists of electric components such as resistors, capacitors, inductors and transistors. Similarly in Photonic Chip the optical components are made up of waveguides(similar to resistors and wires),Lasers(similar to transistors),phase shifters and polarizers. In IC’s electric flux flows through the circuit and similarly photos are the carriers in Photonic Chip.
 
-Quantum is something which is at the end of the spectrum of downscaling FET's.A qbit can be represented by the spin of an elctron or by  the polarization of a single photon in which the two states can be taken to be the vertical polarization and the horizontal polarization.In a classical system, a bit would have to be in one state or the other. However, quantum mechanics allows the qubit to be in a coherent superposition of both states simultaneously, a property that is fundamental to quantum mechanics and quantum computing.Quantum photonics uses the  photon as qbit.
+Quantum is something which is at the end of the spectrum of downscaling FET's.A qbit can be represented by the spin of an electron or by  the polarization of a single photon in which the two states can be taken to be the vertical polarization and the horizontal polarization.In a classical system, a bit would have to be in one state or the other. However, quantum mechanics allows the qubit to be in a coherent superposition of both states simultaneously, a property that is fundamental to quantum mechanics and quantum computing.Quantum photonics uses the  photon as qbit.
+
+Other fundamental properties utilized in quantum computing are probability interference and entanglement. While probability density curves are all positive with an area of 1, their square root allows negativity. This is how scientists have been able to create a model of quantum mechanics where probabilities of states can cancel due to their interaction and agree with experiments while also letting outcomes be probabilistic. The square roots of probabilites are called probability amplitudes and they exist as solutions to the schrodinger equation. 
+
+Entanglement is similar to classical probabilistic correlation. Meaning that given 1 measured state of a particle there is some certainty in what the state of another qubit's state is. This can be absolutely certain at times. entanglement often occurs due to some interaction between particles, like a collision or through a photon splitting into 2. Due to laws like conservation of momentum we can have quantum correlation between particles.
+
+Shor's algorithm is a great algorithm to put all of these concepts together while solving an intriguing particle. meaning if you can understand the algorithm, you'll show a strong level of understanding in the fundamentals of quantum computing.
 
 #### Why Photonic's?
 To carry out quantum computation there are many technologies such as 
@@ -48,6 +54,17 @@ Continuous variables just so you understand  the term,you can probably guess fro
 
 # Quantum Algorithm
 
+Quantum algorithms are carried out through leveraging physical properties of superposition, interference, and entanglement. There's no set method for developing algorithms and many people are coming up with new ideas in this space today. Many quantum algorithms involve setting up a physical system that lets your realize single qubit/qumode and double qubit/qumode gates. A great inexpensive resource for learning about these is in a book called Quantum Computing for Everyone by Chris Bernhardt.
+
+A basic idea for developing an algorithm could go as such,
+
+1. set up a large superposition of entangled states
+2. create some computation through the use of single and double qubit gates
+3. measure that computation to partially collapse the states into a smaller set of more useful states
+4. perform a unitary operation on this set of states that will cancel certain probabilites
+5. repeat 3 and 4 in any order until you wind up with a final state measurement with a high probability of giving you something useful
+
+You can follow these steps through the Shor algorithm. There is a more detailed discussion in sprint 4 below.
 
 # Applications 
 * Machine Learning
