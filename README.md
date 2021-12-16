@@ -46,8 +46,18 @@ Continuous variables just so you understand  the term,you can probably guess fro
 *A Brief Comparison between Continous Variable and qbit*. 
 
 
+# Quantum Algorithm
+Quantum algorithms are carried out through leveraging physical properties of superposition, interference, and entanglement. There's no set method for developing algorithms and many people are coming up with new ideas in this space today. Many quantum algorithms involve setting up a physical system that lets your realize single qubit/qumode and double qubit/qumode gates. A great inexpensive resource for learning about these is in a book called Quantum Computing for Everyone by Chris Bernhardt.
 
+A basic idea for developing an algorithm could go as such,
 
+1. set up a large superposition of entangled states
+2. create some computation through the use of single and double qubit gates
+3. measure that computation to partially collapse the states into a smaller set of more useful states
+4. perform a unitary operation on this set of states that will cancel certain probabilites
+5. repeat 3 and 4 in any order until you wind up with a final state measurement with a high probability of giving you something useful
+
+You can follow these steps through the Shor algorithm. There is a more detailed discussion in sprint 4 below.
 
 # Applications 
 * Machine Learning
