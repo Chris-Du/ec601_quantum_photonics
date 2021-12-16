@@ -5,7 +5,7 @@ Our group focus on researching the industry of quantum photonics. We explored th
 learned quantum photonics concepts, and researched the algorithms in quantum photonics. 
 
 # Poster
-!(https://drive.google.com/file/d/1JJw5if6-jIUlAz2wkcokteGKUx88MSVH/view?usp=sharing)
+!(ec601_quantum_photonics/)
 
 
 
