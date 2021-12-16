@@ -41,6 +41,11 @@ Continuous variables just so you understand  the term,you can probably guess fro
 
 *The above image shows the Mathematical Representation of Qbit and Continous Variable*. 
 
+![table](images/5.jpg)
+
+*A Brief Comparison between Continous Variable and qbit*. 
+
+
 
 
 
@@ -52,8 +57,7 @@ Continuous variables just so you understand  the term,you can probably guess fro
 1. Gustafson, John L. "Moore's Law." (2011): 1177-1184.
 2. Brett Bergan, Will CPU chips ever get to a base clock of 7 or 8 GHz, https://www.quora.com/Will-CPU-chips-ever-get-to-a-base-clock-of-7-or-8-GHz.
 3. Strawberry Fields - software for photonic quantum computing,https://youtu.be/B2n0TxRDWPs
-4. “Shor’s algorithm”, IBM Quantum Composer, https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm
-5. 
-6. "Quantum Photonics", Strawberry Fields by Xanadu, https://strawberryfields.ai/photonics/
-7. Nathan Killoran, Josh Izaac, Nicolás Quesada, Ville Bergholm, Matthew Amy, and Christian Weedbrook. "Strawberry Fields: A Software Platform for Photonic Quantum Computing", Quantum, 3, 129 (2019).
-8. Thomas R. Bromley, Juan Miguel Arrazola, Soran Jahangiri, Josh Izaac, Nicolás Quesada, Alain Delgado Gran, Maria Schuld, Jeremy Swinarton, Zeid Zabaneh, and Nathan Killoran. "Applications of Near-Term Photonic Quantum Computers: Software and Algorithms", Quantum Sci. Technol. 5 034010 (2020).
+4. “Shor’s algorithm”, IBM Quantum Composer, https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm 
+5. "Quantum Photonics", Strawberry Fields by Xanadu, https://strawberryfields.ai/photonics/
+6. Nathan Killoran, Josh Izaac, Nicolás Quesada, Ville Bergholm, Matthew Amy, and Christian Weedbrook. "Strawberry Fields: A Software Platform for Photonic Quantum Computing", Quantum, 3, 129 (2019).
+7. Thomas R. Bromley, Juan Miguel Arrazola, Soran Jahangiri, Josh Izaac, Nicolás Quesada, Alain Delgado Gran, Maria Schuld, Jeremy Swinarton, Zeid Zabaneh, and Nathan Killoran. "Applications of Near-Term Photonic Quantum Computers: Software and Algorithms", Quantum Sci. Technol. 5 034010 (2020).
