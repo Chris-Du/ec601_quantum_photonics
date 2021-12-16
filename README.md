@@ -29,7 +29,7 @@ To carry out quantum computation there are many technologies such as
 # Qbits Vs Qmodes !
 Continuous variables just so you understand  the term,you can probably guess from the name "continuous variables" we're working with a continuous spectrum of real numbers so when you measure a qubit you break the superposition you measure either a 0 or 1 in this system(qunatum photonics)  you measure our Q modes.when you measure qbits you get  the result as a continuous number (3.67498547568345..............) to that effect you can sort of think of it as analogous to analog computing compared to digital computing. lights can be represented by electromagnetic wave so this is how we encode the continues degrees of freedom for instance the electromagnetic amplitude in different vectors etc. so this character is what allows us to physically carry the continuous variable information yeah so this is  sort of like a spectrum.Below at the top you have the qubit model where you just have two distinct States and you can almost think of this as starting to increase the number of states are allowed in your quantum system.[3]
 
-![](images/1.)
+![](images/1.jpg) ![](images/3.jpg) 
 
 
 
