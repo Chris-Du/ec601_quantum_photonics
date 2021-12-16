@@ -14,16 +14,19 @@ Photonic Chip can overcome the limitations of Integrated circuits. An integrated
 
 Quantum is something which is at the end of the spectrum of downscaling FET's.A qbit can be represented by the spin of an elctron or by  the polarization of a single photon in which the two states can be taken to be the vertical polarization and the horizontal polarization.In a classical system, a bit would have to be in one state or the other. However, quantum mechanics allows the qubit to be in a coherent superposition of both states simultaneously, a property that is fundamental to quantum mechanics and quantum computing.Quantum photonics uses the  photon as qbit.
 
-##### Why Photonic's?
+#### Why Photonic's?
 To carry out quantum computation there are many technologies such as 
 * SuperConducting Qbits
 * Trapped Ions
 * Silicon quantum dots
 * Topological qbits
 * Diamond vacancies
-The main advantage's of using Photon as a qbit is 
+
+##### The main advantage's of using Photon as a qbit is 
 * It can be operated under room temperature and it isn't complex as other qbits.
 * Can be fabricated by aldredy existing silicon foundaries like samsung,Intel.
+
+# Qbits Vs Qmodes !
 
 
 
