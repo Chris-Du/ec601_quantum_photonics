@@ -46,7 +46,7 @@ Continuous variables just so you understand  the term,you can probably guess fro
 *A Brief Comparison between Continous Variable and qbit*. 
 
 
-
+# Quantum Algorithm
 
 
 
